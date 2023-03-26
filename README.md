@@ -19,14 +19,16 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate cybersecurity student & web developer</h3>
 <h5 align="center">Love to compete in Capture The Flag Tourney</h5>
 
+<!--
 <div align="center" >
   <a href="https://www.linkedin.com/in/eugene-tin-0603/">
   <img align="center" alt="Eugene Tin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/eujin_0603/">
-  <img align="center"  alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center"  alt="Eugene Tin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://dev.to/eujin03/">
   <img align="center" alt="Eugene Tin | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
   </a>
 </div>
+-->
