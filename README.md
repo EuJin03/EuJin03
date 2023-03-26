@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Ni Hao👋, I'm Eugene</h1>
 <h3 align="center">A passionate cybersecurity student & web developer</h3>
-<h3 align="center">Love to compete in Capture The Flag Tourney</h3>
+<h4 align="center">Love to compete in Capture The Flag Tourney</h4>
 
 <div align="center" >
   <a href="https://www.linkedin.com/in/eugene-tin-0603/">
